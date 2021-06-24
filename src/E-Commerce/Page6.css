@@ -1,0 +1,47 @@
+.add-btn-page6{
+    cursor:pointer;
+    color:#fff;
+    outline:none;
+    border:none;
+    font-weight:500;
+    border-radius:0.2vw;
+    width:70%;
+    padding-left:100px;
+    padding-right:100px;
+    align-items: center;
+    padding-top:0.95rem;
+    font-size:17.5px;
+    /* background-color: #2cc1e2; */
+    background-color: #ff5c01;
+    padding-bottom:0.95rem;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-top: 50px;
+    margin-left: 25px;
+    text-decoration-line: none;
+}
+
+.text{
+background-color:#dee6e8;
+margin-top:6.5px;
+width:85%;
+border-radius:10px;
+margin-left:5%;
+height:38.5px;
+border-color: #dee6e8;
+font-size:17.5px;
+}
+
+
+.text_desktop{
+background-color:#dee6e8;
+margin-top:6.5px;
+width:625px;
+border-radius:10px;
+margin-left:13%;
+margin-right: 30px;
+height:48.5px;
+border-color: #dee6e8;
+font-size:17.5px;
+margin-top:30px;
+}

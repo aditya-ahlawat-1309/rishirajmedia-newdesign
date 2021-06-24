@@ -1,0 +1,117 @@
+.edit-btn-page4{
+    font-size:16.5px;
+    text-decoration: none;
+    color:black;
+    border-style: solid;
+     border-color: #dbb144;
+    border-width: 2px;
+    border-height: 10px;
+    width:60px;
+    padding-left: 30px;
+    padding-right:15px;
+    border-radius: 7.5px;
+    height:30px;
+    padding-top:5px;
+    margin-left: 20px;
+}
+
+.edit-btn-page4_desktop{
+    font-size:16.5px;
+    text-decoration: none;
+    color:black;
+    border-style: solid;
+     border-color: #dbb144;
+    border-width: 2px;
+    border-height: 10px;
+    width:60px;
+    padding-left: 30px;
+    padding-right:30px;
+    border-radius: 7.5px;
+    height:30px;
+    padding-top:5px;
+    margin-left: 20px;
+}
+
+.save-btn-page4{
+    font-size:15.5px;
+    text-decoration: none;
+    color:black;
+    border-style: solid;
+     border-color: #dbb144;
+    border-width: 2px;
+    border-height: 10px;
+    width:100px;
+    padding-left: 15px;
+    padding-right:10px;
+    border-radius: 7.5px;
+    height:30px;
+    padding-top:5px;
+    margin-left: 20px;
+}
+
+
+.save-btn-page4_desktop{
+    font-size:15.5px;
+    text-decoration: none;
+    color:black;
+    border-style: solid;
+     border-color: #dbb144;
+    border-width: 2px;
+   
+    width:600px;
+    padding-left: 30px;
+    padding-right:30px;
+    border-radius: 7.5px;
+    height:30px;
+    padding-top:5px;
+    margin-left: 20px;
+    
+}
+
+
+.checkout_button{
+    cursor:pointer;
+    color:#fff;
+    outline:none;
+    border:none;
+    font-weight:500;
+    border-radius:0.2vw;
+    width:70%;
+    padding-left:60px;
+    padding-right:0px;
+    align-items: center;
+    padding-top:0.95rem;
+    font-size:17.5px;
+    /* background-color: #2cc1e2; */
+    background-color: #ff5c01;
+    padding-bottom:0.95rem;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-top: 30px;
+    margin-left: 25px;
+    text-decoration-line: none;
+}
+
+
+.checkout_button_desktop{
+    cursor:pointer;
+    color:#fff;
+    outline:none;
+    border:none;
+    font-weight:500;
+    border-radius:0.2vw;
+    width:85%;
+    padding-left:60px;
+    padding-right:0px;
+    align-items: center;
+    padding-top:0.95rem;
+    font-size:17.5px;
+    /* background-color: #2cc1e2; */
+    background-color: #ff5c01;
+    padding-bottom:0.95rem;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-top: 30px;
+    margin-left: 25px;
+    text-decoration-line: none;
+}
